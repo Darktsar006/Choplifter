@@ -1,0 +1,846 @@
+# depslib dependency file v1.0
+1366541160 source:c:\users\darktsar\desktop\projet de developement\chop2\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1257810014 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1366541345 c:\users\darktsar\desktop\projet de developement\chop2\constantes.h
+
+1367088363 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-6\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+
+1367088325 c:\users\darktsar\desktop\projet de developement\choplifterv1-6\constantes.h
+
+1325793194 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367179227 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+
+1367179750 c:\users\darktsar\desktop\projet de developement\choplifterv1-7\constantes.h
+
+1367183525 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7-4\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"constantes.h"
+
+1367183563 c:\users\darktsar\desktop\projet de developement\choplifterv1-7-4\constantes.h
+
+1367217558 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7-5\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367217711 c:\users\darktsar\desktop\projet de developement\choplifterv1-7-5\constantes.h
+
+1366015830 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1366015830 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_codec.h
+
+1366015830 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_dsp.h
+
+1366015830 c:\program files (x86)\codeblocks\sdl-1.2.15\include\fmod_memoryinfo.h
+
+1367279453 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7-6\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367279538 c:\users\darktsar\desktop\projet de developement\choplifterv1-7-6\constantes.h
+
+1367280578 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7-7\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367279538 c:\users\darktsar\desktop\projet de developement\choplifterv1-7-7\constantes.h
+
+1367419772 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-7-7r\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367418320 c:\users\darktsar\desktop\projet de developement\choplifterv1-7-7r\constantes.h
+
+1367626076 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-2\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367514385 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-2\constantes.h
+
+1367885990 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-3\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367682837 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-3\constantes.h
+
+1367889451 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-4\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1367886638 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-4\constantes.h
+
+1368435773 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-5\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1368435110 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-5\constantes.h
+
+1369048703 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-6\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1368703793 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-6\constantes.h
+
+1370232799 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-7\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1368703793 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-7\constantes.h
+
+1370245227 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-8\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370239349 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-8\constantes.h
+
+1370278889 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-8-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370278681 c:\users\darktsar\desktop\projet de developement\choplifterv1-8-9\constantes.h
+
+1370278889 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370278681 c:\users\darktsar\desktop\projet de developement\choplifterv1-9\constantes.h
+
+1370331186 source:c:\users\charles_2\desktop\choplifterv1-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1325793194 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1370275081 c:\users\charles_2\desktop\choplifterv1-9\constantes.h
+
+1370442375 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-1\choplifterv1-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370442412 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-1\choplifterv1-9\constantes.h
+
+1370505222 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-2\choplifterv1-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370505478 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-2\choplifterv1-9\constantes.h
+
+1370513145 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-3\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370513037 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-3\constantes.h
+
+1370600406 source:c:\users\charles_2\desktop\choplifterv1-9-4\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370600535 c:\users\charles_2\desktop\choplifterv1-9-4\constantes.h
+
+1370588235 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-5\choplifterv1-9-4\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370588314 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-5\choplifterv1-9-4\constantes.h
+
+1370628030 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-6\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370627524 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-6\constantes.h
+
+1370835938 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-7\choplifterv1-9-7\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370833372 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-7\choplifterv1-9-7\constantes.h
+
+1370897191 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-8\choplifterv1-9-8\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370897717 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-8\choplifterv1-9-8\constantes.h
+
+1370944402 source:c:\users\darktsar\desktop\projet de developement\choplifterv1-9-9\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370944493 c:\users\darktsar\desktop\projet de developement\choplifterv1-9-9\constantes.h
+
+1370974289 source:c:\users\charles_2\desktop\choplifterv1-9-92\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370973007 c:\users\charles_2\desktop\choplifterv1-9-92\constantes.h
+
+1371040957 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0\choplifterv2-0\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370965716 c:\users\darktsar\desktop\projet de developement\choplifterv2-0\choplifterv2-0\constantes.h
+
+1371059287 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0-1\choplifterv2-0\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1370965716 c:\users\darktsar\desktop\projet de developement\choplifterv2-0-1\choplifterv2-0\constantes.h
+
+1371108980 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371108522 c:\users\darktsar\desktop\projet de developement\choplifterv2-0\constantes.h
+
+1371117491 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0-1\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371117969 c:\users\darktsar\desktop\projet de developement\choplifterv2-0-1\constantes.h
+
+1371200581 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0-3\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371200632 c:\users\darktsar\desktop\projet de developement\choplifterv2-0-3\constantes.h
+
+1371225670 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0-5\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371222058 c:\users\darktsar\desktop\projet de developement\choplifterv2-0-5\constantes.h
+
+1371279567 source:c:\users\darktsar\desktop\projet de developement\choplifterv2-0-6\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371231691 c:\users\darktsar\desktop\projet de developement\choplifterv2-0-6\constantes.h
+
+1371275967 source:c:\users\charles_2\desktop\choplifterv2-1\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371228091 c:\users\charles_2\desktop\choplifterv2-1\constantes.h
+
+1371300170 source:c:\users\charles_2\desktop\final choplifter\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371305668 c:\users\charles_2\desktop\final choplifter\constantes.h
+
+1371309329 source:c:\users\darktsar\videos\final choplifter\final choplifter\main.cpp
+	<stdio.h>
+	<Stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<fmod.h>
+	"constantes.h"
+
+1371309268 c:\users\darktsar\videos\final choplifter\final choplifter\constantes.h
+
