@@ -6,7 +6,7 @@ Author
 -------------
 
 TRAORE Oumar - Bachelor 1 - Supinfo Campus de Toulouse  
-GIRY LATERRIERE CHARLES - Bachelor 1 - Supinfo Campus de Toulouse
+GIRY LATERRIERE CHARLES - Bachelor 1 - Supinfo Campus de Toulouse  
 BOYER CLEMENT - Bachelor 1 - Supinfo Campus de Toulouse
 
 ----------
