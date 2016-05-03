@@ -30,3 +30,7 @@ Le but est de réproduire le célèbre jeu Choplifter
 IDE : CodeBlock.
 
 Importer le code sous CodeBlocks et exécuter le code.
+
+Alternative : Trouver le fichier chop.exe et double cliquer dessus
+
+- That All fl...s  
